@@ -63,7 +63,7 @@ global.location = "Sri Lanka, Polonnaruwa, Bandiwewa" //ur location
 //bot bomdy 
 global.owner = ['94764823419']
 global.ownertag = '94764823419' //ur tag number
-global.botname = '𝗘𝘃𝗼𝗻 𝗥𝗶𝗰𝗵' //ur bot name
+global.botname = 'evonrich123456' //ur bot name
 global.linkz = "https://www.youtube.com/channel/UCVfDWyAJFtg6ReM8hrkyw_A/featured" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/channel/UCVfDWyAJFtg6ReM8hrkyw_A/featured" //ur website to be displayed
 global.botscript = 'https://www.facebook.com/people/Evon-Rich/100079305614717/' //script link
